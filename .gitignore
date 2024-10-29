@@ -1,0 +1,11 @@
+# Angular
+frontend/node_modules
+frontend/dist
+
+# .NET
+backend/bin
+backend/obj
+
+# General
+.DS_Store
+Thumbs.db
